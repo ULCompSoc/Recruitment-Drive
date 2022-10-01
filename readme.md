@@ -11,7 +11,7 @@ The reason each pod for a group needs internet is that they will want to show of
 ## Logistics
 This is held in the ul arena, in the main open court. There are individual courts, but the partitions can be removed to allow one massive open space.
 
-[UL Arena](/images/ul_arena.HEIC)
+[UL Arena](/images/ul_arena.png)
 
 We co-ordinate with the Student Life staff to get confirmation on certain things.
 
@@ -45,14 +45,49 @@ There will be a meeting with all of the C+S groups where compsoc get an opportun
 
 ## The set up on the day. 
 
+There will be a contracter who comes in really early in the mornnig/or the night before and provides power during the event. 
+They will add a steel cable across the room, on this cable they attach the power cables to each of the pods locations 
+
 There will be a port opened by ITD/Commnet on the morning of the event 
     This used to be in a storage room with a server rack, however this room is now one of the indoor rock climbing walls.
     This year the cable was connected on the running track upstairs 
 
     This upstairs location presented its own challenges
         co-ordinating with the maintainence man to tape the ethernet cable up high against a pole so that the cable would not interfere with the track 
-        //has its own associated trouble with teardown 
+        
+        This has its own troubles during the tear-down, we could not take down the cable. So we left it for the night and went back the next morning to ask the caretaker to get the ladder to take it down.
+
+[source port with cable coming down](/images/source_port_with_cable.png)
     
+The location of the port is along the wall of the running track upstairs. 
+
+If you open the image above and zoom in on the middle pole you can see the cable tied to it about halfway up from the handrail. The cable can be seen falling down towards the ground. 
+
+This cable is brought along the ground towards the root switch. Make sure this cable is not a trip hazard. 
+
+[root switch](/images/the_root_switch.png)
+
+Attach the cable from the root port into the switch. At this stage, plug another ethernet cable into a laptop and see if you get internet. 
+
+At this stage once we have verified there is internet coming from the switch. Someone should carry a large bundle of cable up the stairs from the arena to the running track. 
+
+Lower the cable down under the barrier to the switch, where we connect it up. (I think you will connect all 4/5 cables that are tied together with tape)
+
+There will now be about 4/5 very long ethernet cables up on the track. Run them up the track to the points where the contracter setup the steel cables. 
+
+Someone should go to the same point but on the raised platform. 
+
+Put the cable out the gap in the rail. then throw/hand it to the person on the platform, where they wil run it across the arena
+Adding zipties to connect the ethernet cable tightly to the cable 
+
+[cable going across](/images/cable_going_across.png)
+
+The person on the track should also ensure there is no trip hazards by zip-tying the cables to the bottom rail of the hand rail where possible. (I think we zip tie).
+
+
+
+We 
+
 There will be a contracter who comes in really early in the mornnig/or the night before and provides power during the event. 
 They will add a steel cable across the room, on this cable they attach the power cables to each of the pods locations 
 
@@ -69,6 +104,8 @@ Describing the purple ethernet cable setup:
     ------------------|    |
     ---------|        |    |
              |        |    |
+    
+    
     We know where the pods locations are quite easily becuase the power person has already dropped the power cables at the predefined plots. They are probably measuring this out. Following the pod guide from C+S
 
 At the ground in the middle of the pod these ethernet cables, we attach this to a netgear switch.
@@ -98,6 +135,6 @@ This can be done the same time other clubs and socs are taking things away, ther
 
 ### <3 Fueled by pizza &>
 
-
+[Well deserved pizza](/images/pizza.png)
 
 
